@@ -1,5 +1,7 @@
 # Initial Access Techniques and Evasion Tactics
 
+## Powered by Deloitte Romania - Cyber Risk Advisory Team
+
 Hello Redteames and Blueteamer,
 
 Welcome to the Git corresponding to the "Pseudo-Hands On" Lab of the presentations "Initial Access Techniques and Evasion Tactics, Red Teamer’s Delight".
