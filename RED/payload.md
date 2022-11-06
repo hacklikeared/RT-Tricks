@@ -21,7 +21,7 @@ The type of agent (in this case "Athena").
 <img src="Images/payload_selectAthena.png">
 
 Select the target architecture (as we are exploiting a 64 bit Windows OS we can select either the win-x64 or win-x86 architecture).
-<img src="Images/payload_selectArchitecture.png">
+<img src="Images/payload_targetArchitecture.png">
 
 Select the commands/functionalities that will be initially loaded into the Agent (in this case Athena and Tetanus come with a predefined set of functionalities, but for modular agent such as Apollo you need to specify at least and "exit and "load" module).
 <img src="Images/payload_agentCommands.png">
