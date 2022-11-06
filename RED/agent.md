@@ -45,4 +45,5 @@ Advanced Exercise:
 
 Red Exercise:
 - Try serving your agent via the HTML Smuggling technique (you can find an example at the following link https://hacklikea.red/file.html).
-
+- Use a packer to bypass MOTW and/or AVs (e.g. https://github.com/mgeeky/PackMyPayload)
+- Use "Right to Left Override Attacks" to make your file look "non-malicious" (e.g. https://cybriant.com/what-is-a-right-to-left-override-attack/)
